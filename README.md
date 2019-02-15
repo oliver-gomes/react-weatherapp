@@ -1,5 +1,5 @@
 # Weather Finder App with React
-![project image](https://oliver-gomes.github.io/images/github%20images/gif/weatherapp.PNG)
+![project image](https://oliver-gomes.github.io/images/github%20images/website-weatherapp.png)
 ## Table of Contents
 
 * [How to Load the App](#howtoloadtheapp)
